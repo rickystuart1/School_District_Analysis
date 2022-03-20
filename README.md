@@ -26,7 +26,7 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 <img src="analysis/per_school_summary_df.png" >
 
 ### Top Five Schools
-- When the 9th grade students scores were removed, their schools overall ranking dropped drastically, but once their scores were calculated for only the 10th - 12th grade students, they regained their position as the second best school in the district. Shown Below:
+- When the 9th grade students scores were removed, their schools overall ranking dropped drastically to 8th overall in the district. But once their scores were calculated for only the 10th - 12th grade students, they regained their position as the second best school in the district. Shown Below:
 <img src="analysis/top_schools.png" >
 
 ### Bottom Five Schools
