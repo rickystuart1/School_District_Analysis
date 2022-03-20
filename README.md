@@ -12,18 +12,14 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 ### School District Summary 
 
 - After setting the 9th grade Thomas High School student scores to NaN, the 461 student's scores were not included in the calulations. Because of this:
-
   - The district average math score decresed by .2 points, while the district average reading score was not changed.
-
   - The district passing math percentage decreased by .2 percentage points and the district passing reading percentage was decreased by .3 percentage points. 
-
   - The overall district passing percentage decreased by .1 percentage points. 
 <img src="analysis/district_summary_df.png" >
 
 ### School Summary 
 
 - In this portion of the analysis, the information is separated by school. So the only row affected by the change was Thomas High School. The changes include:
-
   - Thomas High School's average math score was unaffected, while the average reading score actually increased by .1 points.
   - Thomas High School's average math passing percentage decreased by .1 percentage points and average passing reading percentage decreased by .3 percentage points. 
   - Thomas High School's overall passing percentage decreased by .3 percentage points. 
@@ -36,14 +32,22 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 ### Bottom Schools
 <img src="analysis/bottom_schools.png" >
 
-### Average Scores by School and Grade Level
-
+### Average Scores by Schools and Grade Level
+- The only affect that was displayed on this table were that the scores for the 9th grade students at Thomas High School were made NaN. All other grade levels and every other school was unaffected. 
 #### Average Reading Scores
 <img src="analysis/avg_reading_scores.png" >
 
-#### Average Math Schores
+#### Average Math Scores
 <img src="analysis/avg_math_scores.png" >
-<img src="analysis/school_size.png" >
-<img src="analysis/school_type.png" >
+
+### Scores by School Spending
 <img src="analysis/student_budget.png" >
 
+### Scores by School Size
+<img src="analysis/school_size.png" >
+
+### Scores by School Type
+<img src="analysis/school_type.png" >
+
+
+## Summary 
