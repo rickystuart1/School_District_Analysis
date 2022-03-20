@@ -25,11 +25,11 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
   - Thomas High School's overall passing percentage decreased by .3 percentage points. 
 <img src="analysis/per_school_summary_df.png" >
 
-### Top Schools
+### Top Five Schools
 - When the 9th grade students scores were removed, their schools overall ranking dropped drastically, but once their scores were calculated for only the 10th - 12th grade students, they regained their position as the second best school in the district. Shown Below:
 <img src="analysis/top_schools.png" >
 
-### Bottom Schools
+### Bottom Five Schools
 <img src="analysis/bottom_schools.png" >
 
 ### Average Scores by Schools and Grade Level
