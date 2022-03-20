@@ -27,6 +27,7 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
   - Thomas High School's average math score was unaffected, while the average reading score actually increased by .1 points.
   - Thomas High School's average math passing percentage decreased by .1 percentage points and average passing reading percentage decreased by .3 percentage points. 
   - Thomas High School's overall passing percentage decreased by .3 percentage points. 
+<img src="analysis/per_school_summary_df.png" >
 
 ### Top Schools
 - When the 9th grade students scores were removed, their schools overall ranking dropped drastically, but once their scores were calculated for only the 10th - 12th grade students, they regained their position as the second best school in the district. Shown Below:
