@@ -19,7 +19,7 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 
 <img src="analysis/top_schools.png" >
 <img src="analysis/bottom_schools.png" >
-<img src="analysis/avg_reading_scores.png" >
+
 <img src="analysis/avg_math_scores.png" >
 <img src="analysis/school_size.png" >
 <img src="analysis/school_type.png" >
