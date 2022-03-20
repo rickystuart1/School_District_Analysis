@@ -41,12 +41,15 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 <img src="analysis/avg_math_scores.png" >
 
 ### Scores by School Spending
+- The change had a very insignificant impact on the Scores by School Size table, and could not be seen with the rounded values.
 <img src="analysis/student_budget.png" >
 
 ### Scores by School Size
+- There was also no impact on the Scores by School Size with the rounded values.
 <img src="analysis/school_size.png" >
 
 ### Scores by School Type
+- Like the previous two tables, there was no impact seen on the Scores by School type table. 
 <img src="analysis/school_type.png" >
 
 
