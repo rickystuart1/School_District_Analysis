@@ -24,3 +24,4 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 <img src="analysis/school_size.png" >
 <img src="analysis/school_type.png" >
 <img src="analysis/student_budget.png" >
+i
