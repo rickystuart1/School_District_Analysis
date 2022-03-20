@@ -10,7 +10,7 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 
 ## Results
 ### School District Summary 
-
+<img src="analysis/per_school_summary_df.png" >
 
 ### School Summary 
 
