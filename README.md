@@ -54,5 +54,8 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 
 
 ## Summary 
-In conclusion, four noticeable changes could be seen after performing the changes to the analysis of the school district. By removing the scores of the potentially academically dishonest 9th grade students from Thomas High School and replacing them with NaN, we could see that:
-- 
+In conclusion, four noticeable take aways could be interpreted after performing the changes to the analysis of the school district. By removing the scores of the potentially academically dishonest 9th grade students from Thomas High School and replacing them with NaN, we could see that:
+- The district overall passing percentage was decreased by one tenth of a percentage point. 
+- Thomas High School's overall passing percentage decreased by three tenths of a percentage point. 
+- When the 9th grade students at Thomas High School's grades were replaced with NaN their passing percentage dropped significantly, forcing them out of the top 5 schools in the district. But when only the 10th-12th grade students were taken into account, they reclaimed their position as the second best school. 
+- Overall, replacing the 9th grade Thomas High School student's grades had a very insignificant impact on all of the data, and it is questionable if the second analysis should have been performed.  
