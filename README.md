@@ -12,7 +12,7 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 ### School District Summary 
 
 - After setting the 9th grade Thomas High School student scores to NaN, the 461 student's scores were not included in the calulations. Because of this:
-  - The district average math score decresed by .2 points, while the district average reading score was not changed.
+  - The district average math score decreased by .2 points, while the district average reading score was not changed.
   - The district passing math percentage decreased by .2 percentage points and the district passing reading percentage was decreased by .3 percentage points. 
   - The overall district passing percentage decreased by .1 percentage points. 
 <img src="analysis/district_summary_df.png" >
@@ -54,3 +54,5 @@ Software: Python 3, Jupyter Notebook, Pandas, Numpy
 
 
 ## Summary 
+In conclusion, four noticeable changes could be seen after performing the changes to the analysis of the school district. By removing the scores of the potentially academically dishonest 9th grade students from Thomas High School and replacing them with NaN, we could see that:
+- 
